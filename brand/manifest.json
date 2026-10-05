@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "files": {
+    "README.md": "a0ee9a971ada23478b2b8cf3040d2e9186f0760234e5d43257a06b9de040be9c",
+    "axiosozo-banner-dark.png": "aba0a57f75bb9cfee1958aaf6ef363b4ba90cd6e8df11c876b67781c495de359",
+    "axiosozo-banner-light.png": "8e649a79f3bdd46e947e5bec5b5dfcf966387c0c0b9c215c6ecc0b083da8f2cc",
+    "axiosozo-wordmark-primary.png": "08a715bef705d947974efb9032b411311773e0893c3e711686f184aa1f6c1ac8",
+    "axiosozo-wordmark-primary.svg": "df38d1bd1781c6d6adb8cb8c8951e700867af4401f6f6c3d18ec5247a7d88254",
+    "axiosozo-wordmark-reversed.png": "4cd257af7560b91c7492a9783a288a7faabc4b7fc9b6a3c09b427cf72fa2b866",
+    "axiosozo-wordmark-reversed.svg": "774478d9d0ac5fb010131d4329cd54eb23c9d1f727b809855eabb5e5a8c35637",
+    "by-axiosozo-primary.png": "61e16924d58b4c00621f27e3d821a58fccac07bccf8de01b52479e31b54d18db",
+    "by-axiosozo-primary.svg": "a53fef6cbdecec894a52643e9b2afa64587805bafe34b1bd5690b0e1e71eef34",
+    "by-axiosozo-reversed.png": "81d2029e94b4bd1c8ac7591a68fc7c291a4589f2f06613bc6e598a38ef227830",
+    "by-axiosozo-reversed.svg": "ab811cbea7d772d083dc0f44afd7881d5355784d3c3a772731fa327e0b376051"
+  }
+}

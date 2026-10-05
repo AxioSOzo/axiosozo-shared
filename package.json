@@ -1,0 +1,19 @@
+{
+  "name": "@axiosozo/shared",
+  "version": "0.1.0",
+  "type": "module",
+  "files": [
+    "brand",
+    "index.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": "./index.mjs",
+    "./brand/logos/*": "./brand/logos/*",
+    "./brand/manifest.json": "./brand/manifest.json"
+  },
+  "scripts": {
+    "check": "node --test tests/*.test.mjs"
+  }
+}

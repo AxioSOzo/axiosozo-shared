@@ -1,0 +1,2 @@
+import test from 'node:test'; import assert from 'node:assert/strict'; import {readFile} from 'node:fs/promises'; import {ecosystem} from '../index.mjs';
+test('shared package supplies public product identity and valid logo assets', async()=>{assert.equal(ecosystem.website,'https://axiosozo.com');const s=await readFile(new URL('../brand/logos/axiosozo-wordmark-primary.svg',import.meta.url),'utf8');assert.match(s,/<svg/);});
